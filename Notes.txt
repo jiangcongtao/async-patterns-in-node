@@ -18,4 +18,4 @@ Lazy exectution
 -data returned from async functions is automatically
 wrapper in a promise
 -using the await keyword will automatically extract
-data from a promise
+data from a promisespero tu confirmación para avan
