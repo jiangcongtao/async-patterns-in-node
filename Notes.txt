@@ -1,0 +1,21 @@
+##### GENERATOR FUNCTIONS
+
+Functions that can be paused and resumed
+- state of the function is store while paused
+
+Return generators
+- implement the iterator protocol
+
+Lazy exectution
+- values computed on demand
+
+
+
+##### ASYNC / AWAIT
+
+-buily with promises and generators
+-reads more like synchronous computed
+-data returned from async functions is automatically
+wrapper in a promise
+-using the await keyword will automatically extract
+data from a promise
